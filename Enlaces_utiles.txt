@@ -1,0 +1,7 @@
+- Anotaciones @PathVarialbe y @RequestParam
+
+https://www.geeksforgeeks.org/spring-boot-pathvariable-and-requestparam-annotations/
+
+- Parámetros opcionales con @PathVariable
+
+https://www.baeldung.com/spring-optional-path-variables
